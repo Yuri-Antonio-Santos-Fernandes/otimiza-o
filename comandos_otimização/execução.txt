@@ -1,0 +1,47 @@
+
+oque cada um faz?
+
+sfc /scannow:
+Verifica se há arquivos do sistema corrompidos ou alterados, caso encontre problemas, ele tenta corrigir automaticamente usando arquivos locais.
+
+
+dism /online /cleanup-image /restorehealth:
+Repara a imagem do Windows (a base que o SFC usa), e caso necessário baixa arquivos corretos da internet(util quando o sfc não resolve)
+
+
+ipconfig /flushdns:
+Limpa o cache de resolução DNS no Windows, util para resolver  erros de conexão de internet e problemas de navegação.
+
+
+
+Ele pode:
+
+demorar vários minutos.
+parecer travado (normal).
+usar internet (às vezes).
+
+⚠️ IMPORTANTE
+❗ Não feche o programa
+❌  Não desligar o PC
+❌ Não interromper o processo
+
+Mesmo que pareça parado.
+
+👉 Interromper pode deixar o sistema inconsistente.
+
+Só interrompa se:
+❌ passou muito tempo (+ 1 hora) sem atividade
+
+Como saber se NÃO travou?
+
+1-Abra o Gerenciador de Tarefas:
+
+2-veja se tem atividade em:
+CPU
+Disco
+
+Se tiver uso → ✔️ ainda está rodando.
+
+
+
+aproveite 👍 👍 👍

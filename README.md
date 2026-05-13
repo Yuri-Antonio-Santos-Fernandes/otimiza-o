@@ -29,8 +29,8 @@ Mesmo que pareça parado.
 
 👉 Interromper pode deixar o sistema inconsistente.
 
-Só interrompa se:
-❌ passou muito tempo (+ 1 hora) sem atividade
+Só interrompa se: 
+passou muito tempo (mais ou menos 1 hora) sem atividade
 
 #Como saber se NÃO travou?
 
@@ -40,8 +40,8 @@ Só interrompa se:
 CPU
 Disco
 
-Se tiver uso → ✔️ ainda está rodando.
+Se tiver uso → significa que ainda está rodando.
 
 
 
-aproveite 👍 👍 👍
+aproveite 👍 👍 
